@@ -55,12 +55,18 @@
 <br/>
 
 ### 🥇 Competitive Programming:
-- **LeetCode:** Top 5% with 700+ problems solved (Max Rating: 1847)
-- **CodeChef:** 3⭐ (Peak Rating: 1796)
-- **CodeForces:** Pupil (Max Rating: 1260)
+- **LeetCode:** Knight Badge for Top 5% with 900+ problems solved (Rating: 1850+)
+- **CodeChef:** 4⭐ (Rating: 1800+)
+- **CodeForces:** Expert (Rating: 1600+)
 - **Global Rank 70** in CodeChef Starters 166 Contest
 
 ### 🚀 Projects:
+- **Visionera (AI SaaS App):**
+  - Developed with Next.js, TypeScript, TailwindCSS, MongoDB, Clerk, Stripe and Cloudinary AI.
+  - Implemented Cloudinary AI for image transformation and Google auto-tagging with confidence scores (≥0.7).
+  - Reduced backend load by up to 30% using debouncing techniques.
+  - Increased data fetching speed by 25% using cached MongoDB connections, Cloudinary for uploads, and server-side pagination.
+    
 - **ChiCart (E-commerce Store):**
   - Built with React, Firebase, Express.js, Node.js, and Stripe
   - Enhanced performance by 25% through optimization techniques
@@ -85,6 +91,9 @@
 <br/>
 
 <div align="center">
+  <a href="https://github.com/Jitesh7891/Visionera">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jitesh7891&repo=Visionera&theme=react&border_color=61dafb&border_radius=10" alt="Visionera Repository" />
+  </a>
   <a href="https://github.com/Jitesh7891/ChiCart">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jitesh7891&repo=ChicCart&theme=react&border_color=61dafb&border_radius=10" alt="ChiCart Repository" />
   </a>
